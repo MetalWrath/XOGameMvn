@@ -1,4 +1,4 @@
-package ru.matelwrath.xogame;
+package main.java.ru.matelwrath.xogame;
 
 public enum SignXO {
     X,

@@ -1,4 +1,4 @@
-package ru.matelwrath.xogame;
+package main.java.ru.matelwrath.xogame;
 
 import java.io.BufferedReader;
 import java.io.IOException;

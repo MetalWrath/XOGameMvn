@@ -1,4 +1,6 @@
-package ru.matelwrath.xogame;
+package main.java.ru.matelwrath.xogame;
+
+import main.java.ru.matelwrath.xogame.XOGame;
 
 public class XOGameMain {
     public static void main(String[] args) {
